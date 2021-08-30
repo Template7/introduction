@@ -14,8 +14,8 @@ Overall introduction of the paoject Temaplate7.
 
 ![](./resource/readme/Overall.png)
 
-| Component | Describe |
-| :---: | :---: |
+| Component | Describtion |
+| :---: | :--- |
 | [Backend](https://github.com/Template7/backend) | Core backend service. |
 | [Cli-Tool](https://github.com/Template7/cli-tool) | Customized CLI tool for the project, such like DB indexes / data initialize. |
 | [Common](https://github.com/Template7/common) | Common lib of the project. |
