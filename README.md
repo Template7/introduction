@@ -13,7 +13,7 @@ Overall introduction of the project Temaplate7.
 
 The project Template7 is a template of the microservice software product, include dockerize and deployment.
 
-CI flow uses github actions, once the condition matched, the CI flow will be trigger, it builds docker image from the souce code then push to the dockerhub.
+CI flow uses github actions, once the condition matched, the CI flow will be trigger, it builds docker image from the souce code then push to the [dockerhub](https://hub.docker.com/).
 
 Use [Helm](https://helm.sh/) as deployment tool.
 
