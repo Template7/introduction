@@ -2,7 +2,7 @@
   <img align="left" src="resource/readme/logo.png">
 </p>
 
-# Template7-Intruction
+# Template7-Introduction
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
