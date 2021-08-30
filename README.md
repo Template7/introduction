@@ -6,9 +6,15 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-Overall introduction of the paoject Temaplate7.
+Overall introduction of the project Temaplate7.
 
 <br/>
+
+The project Template7 is a template for microservise software product, include dockerize and deployment.
+
+CI flow uses github actions, once the condition matched, the CI flow will be trigger, it builds docker image from the souce code then push to the dockerhub.
+
+Use [Helm](https://helm.sh/) as deployment tool.
 
 ## Overall Graph
 
