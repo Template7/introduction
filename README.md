@@ -17,7 +17,7 @@ CI flow uses github actions, once the condition matched, the CI flow will be tri
 
 Use [Helm](https://helm.sh/) as deployment tool.
 
-## Overall Graph
+## Overall Design
 
 ![](./resource/readme/Overall.png)
 
