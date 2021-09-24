@@ -21,7 +21,7 @@ Use [Helm](https://helm.sh/) as deployment tool.
 
 ![](./resource/readme/Overall.png)
 
-| Component | Describtion |
+| Component | Description |
 | :---: | :--- |
 | [Backend](https://github.com/Template7/backend) | Core backend service. |
 | [Cli-Tool](https://github.com/Template7/cli-tool) | Customized CLI tool for the project, such like DB indexes / data initialize. |
